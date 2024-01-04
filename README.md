@@ -1,0 +1,1 @@
+Tkinter kütüphanesi kullanıldı.
